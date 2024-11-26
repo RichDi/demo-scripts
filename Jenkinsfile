@@ -1,7 +1,7 @@
 pipeline {
   agent any
     tools {
-      nodejs 'node-23.3.0'
+      nodejs '23.3.0'
     }
 
     options {
