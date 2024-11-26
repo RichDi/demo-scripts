@@ -1,0 +1,18 @@
+{
+  "name": "demo-scripts",
+  "version": "1.0.0",
+  "description": "Scripts para pruebas de automatización",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ricardo Delgado",
+  "license": "ISC",
+  "type": "module",
+  "jest": {
+    "transform": {}
+  },
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
